@@ -67,7 +67,7 @@ do {
         color: grey;
       }
       #header ul li:hover{
-        color: grey;
+        color: grey !important;
       }
       #footer{
         position: absolute;
